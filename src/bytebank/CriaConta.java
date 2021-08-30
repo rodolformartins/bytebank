@@ -18,7 +18,6 @@ public class CriaConta {
 
         System.out.println("Primeira conta tem: " + primeiraConta.getSaldo());
         System.out.println("Segunda conta tem: " + segundaConta.getSaldo());
-        System.out.println("Segunda conta tem: " + segundaConta.getSaldo());
 
 
         //Verificando o endereco de cada objeto
