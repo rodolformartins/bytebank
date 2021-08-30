@@ -13,6 +13,7 @@ public class TestaMetodos {
 	contap1.transfere(100, contap2);
 	
 	System.out.println("Conta p1 possui: R$" + contap1.getSaldo());
+	System.out.println("Conta p1 possui: R$" + contap1.getSaldo());
 	
 	
 	System.out.println("Conta p2 possui: R$" + contap2.getSaldo());
